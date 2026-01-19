@@ -1,57 +1,42 @@
-# Excel-Job-Salary-Dashboard
-Excel dashboard project completed as part of the Excel for Data Analytics – Full Course for Beginners by Luke Barousse. Demonstrates data cleaning, basic analysis, and interactive dashboard design using Excel.
-Dashboard Development Report
+# Excel Salary Dashboard
 
-Excel for Data Analytics – Course Project
+## Overview
 
-1. Objective
+This repository contains an Excel-based salary dashboard developed as part of Excel for Data Analytics – Full Course for Beginners by Luke Barousse. The project focuses on applying foundational data analysis concepts in Excel to transform raw job salary data into an interactive and user-friendly dashboard.
 
-This dashboard was developed as a practical project completed as part of Excel for Data Analytics – Full Course for Beginners by Luke Barousse. The objective was to apply foundational data analysis techniques in Excel to transform raw data into an interactive dashboard that supports exploratory analysis and simple decision-making.
+## Objective
 
-2. Learning Context
+The goal of this project was to practice core Excel data analytics skills, including data preparation, calculation of summary metrics, and dashboard design, while enabling users to explore salary information across different roles, countries, and work types.
+Dataset
 
-The project followed a guided, hands-on workflow taught in the course, focusing on best practices for entry-level data analysts, including structured data preparation, logical modelling, and clear dashboard design.
+The dataset used in this project is provided as part of the course and contains real-world data-related job information, including:
+  -	Job titles
+  -	Salary figures
+  -	Locations
+  -	Work schedule types
+The data was structured and prepared to support analysis and interactive filtering.
 
-3. Data Preparation
+## Tools and Skills Demonstrated
 
-The dataset was first reviewed and prepared to ensure it was suitable for analysis:
+This project demonstrates the following Excel skills relevant to entry-level data analyst roles:
+  -	Data cleaning and structuring
+  -	Formulas and functions (including aggregation and conditional logic
+  -	Data validation for controlled user inputs
+  -	Chart creation and formatting
+  -	Dashboard layout and usability design
+ 
+## Dashboard Features
 
-Raw data was organised into structured tables.
+The dashboard allows users to:
+  -	Compare salary levels across different job titles
+  -	Explore salary differences by country
+  -	Filter results based on work schedule type
+  -	View dynamically updated summary metrics based on selections
+All outputs update automatically based on user-defined filters.
 
-Inconsistent or missing values were checked and corrected where required.
+## Files
+  -	Final Dashboard.xlsx – Completed Excel dashboard file
 
-Categorical fields were standardised to support filtering and aggregation.
+## Notes
 
-Data validation was applied to maintain accuracy and consistency.
-
-These steps ensured the data was clean, reliable, and ready for analysis.
-
-4. Analysis and Calculations
-
-Key metrics were generated using Excel formulas and structured references:
-
-Calculated fields were created to support comparisons and summaries.
-
-Aggregations such as averages and totals were derived dynamically.
-
-Supporting tables were used to drive filters and slicers.
-
-This approach allowed the dashboard to update automatically based on user selections.
-
-5. Dashboard Construction
-
-The dashboard was designed to prioritise clarity and usability:
-
-Logical separation between data, calculations, and presentation.
-
-Interactive filters to allow users to explore the data by category.
-
-Clear summary outputs to highlight key insights.
-
-A clean layout to minimise visual clutter and improve readability.
-
-The design follows standard principles for entry-level analytical dashboards.
-
-6. Outcome
-
-The completed dashboard demonstrates practical Excel skills relevant to junior data analyst roles, including data cleaning, basic analysis, and dashboard development. It reflects an understanding of how to translate raw data into an accessible analytical tool using Excel.
+This project was completed for learning and portfolio purposes and reflects entry-level data analysis practices using Excel. It demonstrates an understanding of how to move from raw data to a structured analytical output
